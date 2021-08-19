@@ -1,0 +1,16 @@
+#projects {
+    color: #a52a2a;
+    font-weight: bolder;
+    text-decoration: underline;
+    margin-bottom: 3rem;
+}
+
+span {
+    font-weight: bolder;
+}
+
+.paragraph {
+    font-size: .8rem;
+    /* margin: 1px, 0, 1px, 0; */
+    /* line-height: 50%; */
+}
