@@ -3,21 +3,12 @@
 }
 
 #projects {
-    color: #a52a2a;
+    color: #ffff;
     font-weight: bolder;
-    text-decoration: underline;
     margin-bottom: 3rem;
 }
 
 span {
     font-weight: bolder;
     color: #a52a2a;
-}
-
-.paragraph {
-    font-size: .8rem;
-}
-
-.col-md-6 {
-    border: 1px solid;
 }
