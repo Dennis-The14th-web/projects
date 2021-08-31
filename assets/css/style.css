@@ -1,3 +1,6 @@
+*{
+    box-sizing: border-box;
+}
 .card-img-top {
     height: 200px;
 }
