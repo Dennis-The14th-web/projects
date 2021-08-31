@@ -12,3 +12,12 @@ span {
     font-weight: bolder;
     color: #a52a2a;
 }
+
+p {
+    font-weight: 800;
+    font-size: small;
+}
+
+.list-group-item {
+    font-size: small;
+}
